@@ -1,0 +1,31 @@
+# Visual Studio metadata (auto-generated, 800+ MB)
+.vs/
+
+# Build output
+x64/
+Debug/
+Release/
+
+# Intermediate build files
+Kostur/x64/
+Kostur/Debug/
+Kostur/Release/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.unsuccessfulbuild
+*.FileListAbsolute.txt
+
+# VS user-specific settings
+*.vcxproj.user
+
+# Claude Code settings
+.claude/
+
+# OS files
+Thumbs.db
+.DS_Store
